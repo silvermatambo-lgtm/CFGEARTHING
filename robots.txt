@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cfgearthing.vercel.app/sitemap.xml
